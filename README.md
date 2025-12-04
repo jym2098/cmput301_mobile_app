@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CMPUT 301 W25 - Team Z
 
 ## Team Members
@@ -39,3 +40,6 @@ Track your moods as well as your friends moods in this app! Share moods, support
 ## Collaborators
 
 Used AI (Chat GPT) for debugging as well as UI testing. Also used for in-code comments. 
+=======
+# cmput301_mobile_app
+>>>>>>> 61e4d4a6fc2bf30464e74c406a7afde4ea249ccd
